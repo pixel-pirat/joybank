@@ -25,6 +25,7 @@ Partial Class dasboardAdmin
         Dim CustomizableEdges17 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges18 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges1 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(dasboardAdmin))
         Dim CustomizableEdges2 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges3 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges4 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
@@ -110,6 +111,7 @@ Partial Class dasboardAdmin
         Guna2Button8.FillColor = Color.FromArgb(CByte(15), CByte(23), CByte(41))
         Guna2Button8.Font = New Font("Segoe UI", 10F)
         Guna2Button8.ForeColor = Color.White
+        Guna2Button8.Image = CType(resources.GetObject("Guna2Button8.Image"), Image)
         Guna2Button8.ImageAlign = HorizontalAlignment.Left
         Guna2Button8.Location = New Point(15, 550)
         Guna2Button8.Name = "Guna2Button8"
@@ -131,6 +133,7 @@ Partial Class dasboardAdmin
         Guna2Button7.FillColor = Color.FromArgb(CByte(15), CByte(23), CByte(41))
         Guna2Button7.Font = New Font("Segoe UI", 10F)
         Guna2Button7.ForeColor = Color.White
+        Guna2Button7.Image = CType(resources.GetObject("Guna2Button7.Image"), Image)
         Guna2Button7.ImageAlign = HorizontalAlignment.Left
         Guna2Button7.Location = New Point(15, 490)
         Guna2Button7.Name = "Guna2Button7"
@@ -152,6 +155,7 @@ Partial Class dasboardAdmin
         Guna2Button6.FillColor = Color.FromArgb(CByte(15), CByte(23), CByte(41))
         Guna2Button6.Font = New Font("Segoe UI", 10F)
         Guna2Button6.ForeColor = Color.White
+        Guna2Button6.Image = CType(resources.GetObject("Guna2Button6.Image"), Image)
         Guna2Button6.ImageAlign = HorizontalAlignment.Left
         Guna2Button6.Location = New Point(15, 430)
         Guna2Button6.Name = "Guna2Button6"
@@ -173,6 +177,7 @@ Partial Class dasboardAdmin
         Guna2Button5.FillColor = Color.FromArgb(CByte(15), CByte(23), CByte(41))
         Guna2Button5.Font = New Font("Segoe UI", 10F)
         Guna2Button5.ForeColor = Color.White
+        Guna2Button5.Image = CType(resources.GetObject("Guna2Button5.Image"), Image)
         Guna2Button5.ImageAlign = HorizontalAlignment.Left
         Guna2Button5.Location = New Point(15, 370)
         Guna2Button5.Name = "Guna2Button5"
@@ -194,6 +199,7 @@ Partial Class dasboardAdmin
         Guna2Button4.FillColor = Color.FromArgb(CByte(15), CByte(23), CByte(41))
         Guna2Button4.Font = New Font("Segoe UI", 10F)
         Guna2Button4.ForeColor = Color.White
+        Guna2Button4.Image = CType(resources.GetObject("Guna2Button4.Image"), Image)
         Guna2Button4.ImageAlign = HorizontalAlignment.Left
         Guna2Button4.Location = New Point(15, 310)
         Guna2Button4.Name = "Guna2Button4"
@@ -215,6 +221,7 @@ Partial Class dasboardAdmin
         Guna2Button3.FillColor = Color.FromArgb(CByte(15), CByte(23), CByte(41))
         Guna2Button3.Font = New Font("Segoe UI", 10F)
         Guna2Button3.ForeColor = Color.White
+        Guna2Button3.Image = CType(resources.GetObject("Guna2Button3.Image"), Image)
         Guna2Button3.ImageAlign = HorizontalAlignment.Left
         Guna2Button3.Location = New Point(15, 250)
         Guna2Button3.Name = "Guna2Button3"
@@ -236,6 +243,7 @@ Partial Class dasboardAdmin
         Guna2Button2.FillColor = Color.FromArgb(CByte(15), CByte(23), CByte(41))
         Guna2Button2.Font = New Font("Segoe UI", 10F)
         Guna2Button2.ForeColor = Color.White
+        Guna2Button2.Image = CType(resources.GetObject("Guna2Button2.Image"), Image)
         Guna2Button2.ImageAlign = HorizontalAlignment.Left
         Guna2Button2.Location = New Point(15, 190)
         Guna2Button2.Name = "Guna2Button2"
@@ -257,6 +265,7 @@ Partial Class dasboardAdmin
         Guna2Button1.FillColor = Color.FromArgb(CByte(15), CByte(23), CByte(41))
         Guna2Button1.Font = New Font("Segoe UI", 10F)
         Guna2Button1.ForeColor = Color.White
+        Guna2Button1.Image = CType(resources.GetObject("Guna2Button1.Image"), Image)
         Guna2Button1.ImageAlign = HorizontalAlignment.Left
         Guna2Button1.Location = New Point(15, 130)
         Guna2Button1.Name = "Guna2Button1"
@@ -292,6 +301,7 @@ Partial Class dasboardAdmin
         Guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox1.Font = New Font("Segoe UI", 9F)
         Guna2TextBox1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox1.IconLeft = CType(resources.GetObject("Guna2TextBox1.IconLeft"), Image)
         Guna2TextBox1.Location = New Point(53, 17)
         Guna2TextBox1.Margin = New Padding(3, 4, 3, 4)
         Guna2TextBox1.Name = "Guna2TextBox1"

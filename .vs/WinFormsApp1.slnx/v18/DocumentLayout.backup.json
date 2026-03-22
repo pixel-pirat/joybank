@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\admin\\source\\repos\\winformsapp1\\winformsapp1\\dasboardadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\dasboardadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\admin\\source\\repos\\winformsapp1\\winformsapp1\\dasboardadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\dasboardadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\admin\\source\\repos\\winformsapp1\\winformsapp1\\accounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\accounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\admin\\source\\repos\\winformsapp1\\winformsapp1\\loan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\loan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\admin\\source\\repos\\winformsapp1\\winformsapp1\\dasboardadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\dasboardadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\admin\\source\\repos\\winformsapp1\\winformsapp1\\transactions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\transactions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\admin\\source\\repos\\winformsapp1\\winformsapp1\\accounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\accounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED73E150-FF09-BDF8-8134-EB9916F8D768}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\admin\\source\\repos\\winformsapp1\\winformsapp1\\customer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -30,11 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "transactions.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\transactions.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\transactions.vb",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\transactions.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\transactions.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-22T09:38:20.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "accounts.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\accounts.vb",
               "RelativeDocumentMoniker": "WinFormsApp1\\accounts.vb",
@@ -46,20 +66,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "dasboardAdmin.vb",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\dasboardAdmin.vb",
               "RelativeDocumentMoniker": "WinFormsApp1\\dasboardAdmin.vb",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\dasboardAdmin.vb",
-              "RelativeToolTip": "WinFormsApp1\\dasboardAdmin.vb",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBcAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\dasboardAdmin.vb*",
+              "RelativeToolTip": "WinFormsApp1\\dasboardAdmin.vb*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-03-21T19:59:21.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "dasboardAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\dasboardAdmin.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dasboardAdmin.vb",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\dasboardAdmin.vb [Design]*",
+              "RelativeToolTip": "WinFormsApp1\\dasboardAdmin.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-21T13:19:32.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\loan.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\loan.vb",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\loan.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\loan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-22T09:49:53.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "customer.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\customer.vb",
               "RelativeDocumentMoniker": "WinFormsApp1\\customer.vb",
@@ -71,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "overview.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\overview.vb",
               "RelativeDocumentMoniker": "WinFormsApp1\\overview.vb",
@@ -79,18 +123,6 @@
               "RelativeToolTip": "WinFormsApp1\\overview.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-03-21T13:26:27.034Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dasboardAdmin.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\dasboardAdmin.vb",
-              "RelativeDocumentMoniker": "WinFormsApp1\\dasboardAdmin.vb",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\WinFormsApp1\\dasboardAdmin.vb [Design]",
-              "RelativeToolTip": "WinFormsApp1\\dasboardAdmin.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T13:19:32.262Z",
               "EditorCaption": " [Design]"
             }
           ]

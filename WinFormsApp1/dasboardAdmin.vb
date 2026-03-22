@@ -24,4 +24,39 @@
         Guna2Panel3.Controls.Add(uc)
 
     End Sub
+
+    Private Sub Guna2Button4_Click(sender As Object, e As EventArgs) Handles Guna2Button4.Click
+        Guna2Panel3.Controls.Clear()
+        Dim uc As New transactions()
+        uc.Dock = DockStyle.Fill
+        Guna2Panel3.Controls.Add(uc)
+    End Sub
+
+    Private Sub Guna2Button5_Click(sender As Object, e As EventArgs) Handles Guna2Button5.Click
+        Guna2Panel3.Controls.Clear()
+        Dim uc As New loan()
+        uc.Dock = DockStyle.Fill
+        Guna2Panel3.Controls.Add(uc)
+    End Sub
+
+    Private Sub Guna2Button6_Click(sender As Object, e As EventArgs) Handles Guna2Button6.Click
+        Guna2Panel3.Controls.Clear()
+        Dim uc As New branch()
+        uc.Dock = DockStyle.Fill
+        Guna2Panel3.Controls.Add(uc)
+    End Sub
+
+    Private Sub Guna2Button7_Click(sender As Object, e As EventArgs) Handles Guna2Button7.Click
+        Guna2Panel3.Controls.Clear()
+        Dim uc As New audit()
+        uc.Dock = DockStyle.Fill
+        Guna2Panel3.Controls.Add(uc)
+    End Sub
+
+    Private Sub Guna2Button8_Click(sender As Object, e As EventArgs) Handles Guna2Button8.Click
+        Guna2Panel3.Controls.Clear()
+        Dim uc As New settings()
+        uc.Dock = DockStyle.Fill
+        Guna2Panel3.Controls.Add(uc)
+    End Sub
 End Class
