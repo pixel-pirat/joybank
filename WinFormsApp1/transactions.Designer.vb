@@ -109,11 +109,11 @@ Partial Class transactions
         DataGridViewCellStyle3.WrapMode = DataGridViewTriState.False
         Guna2DataGridView1.DefaultCellStyle = DataGridViewCellStyle3
         Guna2DataGridView1.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
-        Guna2DataGridView1.Location = New Point(3, 3)
+        Guna2DataGridView1.Location = New Point(12, 15)
         Guna2DataGridView1.Name = "Guna2DataGridView1"
         Guna2DataGridView1.RowHeadersVisible = False
         Guna2DataGridView1.RowHeadersWidth = 51
-        Guna2DataGridView1.Size = New Size(968, 756)
+        Guna2DataGridView1.Size = New Size(943, 734)
         Guna2DataGridView1.TabIndex = 0
         Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White
         Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.Font = Nothing

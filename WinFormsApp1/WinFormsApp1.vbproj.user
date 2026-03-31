@@ -28,6 +28,12 @@
     <Compile Update="loan.vb">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="loanMgt.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="loanRepayment.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="overview.vb">
       <SubType>UserControl</SubType>
     </Compile>

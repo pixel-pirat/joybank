@@ -34,3 +34,7 @@ C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\
 C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.branch.resources
 C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.settings.resources
 C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.customerForm.resources
+C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.accountForm.resources
+C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.transactionForm.resources
+C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.loanMgt.resources
+C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.loanRepayment.resources
