@@ -53,9 +53,9 @@ Partial Class loanRepayment
         Guna2HtmlLabel17 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel18 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2Panel3 = New Guna.UI2.WinForms.Guna2Panel()
-        Guna2HtmlLabel4 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2HtmlLabel5 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel7 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Guna2HtmlLabel5 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Guna2HtmlLabel4 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2Panel1 = New Guna.UI2.WinForms.Guna2Panel()
         Guna2HtmlLabel8 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel9 = New Guna.UI2.WinForms.Guna2HtmlLabel()
@@ -258,16 +258,16 @@ Partial Class loanRepayment
         Guna2Panel3.Size = New Size(362, 171)
         Guna2Panel3.TabIndex = 29
         ' 
-        ' Guna2HtmlLabel4
+        ' Guna2HtmlLabel7
         ' 
-        Guna2HtmlLabel4.BackColor = Color.Transparent
-        Guna2HtmlLabel4.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel4.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
-        Guna2HtmlLabel4.Location = New Point(17, 26)
-        Guna2HtmlLabel4.Name = "Guna2HtmlLabel4"
-        Guna2HtmlLabel4.Size = New Size(145, 20)
-        Guna2HtmlLabel4.TabIndex = 58
-        Guna2HtmlLabel4.Text = "MTD COLLECTIONS"
+        Guna2HtmlLabel7.BackColor = Color.Transparent
+        Guna2HtmlLabel7.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Guna2HtmlLabel7.ForeColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
+        Guna2HtmlLabel7.Location = New Point(17, 123)
+        Guna2HtmlLabel7.Name = "Guna2HtmlLabel7"
+        Guna2HtmlLabel7.Size = New Size(150, 20)
+        Guna2HtmlLabel7.TabIndex = 59
+        Guna2HtmlLabel7.Text = "+12.5% vs Last Month"
         ' 
         ' Guna2HtmlLabel5
         ' 
@@ -280,16 +280,16 @@ Partial Class loanRepayment
         Guna2HtmlLabel5.TabIndex = 30
         Guna2HtmlLabel5.Text = "142,500.00"
         ' 
-        ' Guna2HtmlLabel7
+        ' Guna2HtmlLabel4
         ' 
-        Guna2HtmlLabel7.BackColor = Color.Transparent
-        Guna2HtmlLabel7.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel7.ForeColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
-        Guna2HtmlLabel7.Location = New Point(17, 123)
-        Guna2HtmlLabel7.Name = "Guna2HtmlLabel7"
-        Guna2HtmlLabel7.Size = New Size(150, 20)
-        Guna2HtmlLabel7.TabIndex = 59
-        Guna2HtmlLabel7.Text = "+12.5% vs Last Month"
+        Guna2HtmlLabel4.BackColor = Color.Transparent
+        Guna2HtmlLabel4.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Guna2HtmlLabel4.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
+        Guna2HtmlLabel4.Location = New Point(17, 26)
+        Guna2HtmlLabel4.Name = "Guna2HtmlLabel4"
+        Guna2HtmlLabel4.Size = New Size(145, 20)
+        Guna2HtmlLabel4.TabIndex = 58
+        Guna2HtmlLabel4.Text = "MTD COLLECTIONS"
         ' 
         ' Guna2Panel1
         ' 
