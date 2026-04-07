@@ -22,44 +22,44 @@ Partial Class loanMgt
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim CustomizableEdges17 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges18 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges3 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges4 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges5 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges6 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges7 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges8 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges9 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges10 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges11 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges12 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges13 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges14 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges15 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges16 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges1 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges2 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges35 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges36 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges19 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges20 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges21 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges22 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges23 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges24 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges25 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges26 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges27 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges28 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges29 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges30 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges31 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges32 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges33 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges34 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Guna2Panel1 = New Guna.UI2.WinForms.Guna2Panel()
-        Guna2HtmlLabel9 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2ComboBox4 = New Guna.UI2.WinForms.Guna2ComboBox()
+        Guna2HtmlLabel10 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        dtpStartDate = New Guna.UI2.WinForms.Guna2DateTimePicker()
+        txtAccountNumber = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        cmbStatus = New Guna.UI2.WinForms.Guna2ComboBox()
         Guna2HtmlLabel8 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2TextBox1 = New Guna.UI2.WinForms.Guna2TextBox()
+        txtAmount = New Guna.UI2.WinForms.Guna2TextBox()
         Guna2HtmlLabel6 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2ComboBox2 = New Guna.UI2.WinForms.Guna2ComboBox()
-        Guna2Button3 = New Guna.UI2.WinForms.Guna2Button()
-        Guna2Button2 = New Guna.UI2.WinForms.Guna2Button()
-        Guna2ComboBox1 = New Guna.UI2.WinForms.Guna2ComboBox()
+        cmbCustomer = New Guna.UI2.WinForms.Guna2ComboBox()
+        btnClear = New Guna.UI2.WinForms.Guna2Button()
+        btnProcess = New Guna.UI2.WinForms.Guna2Button()
+        cmbLoanType = New Guna.UI2.WinForms.Guna2ComboBox()
         Guna2HtmlLabel5 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2DateTimePicker1 = New Guna.UI2.WinForms.Guna2DateTimePicker()
+        dtpEndDate = New Guna.UI2.WinForms.Guna2DateTimePicker()
         Guna2HtmlLabel4 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel3 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel2 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel1 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel17 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel18 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2DateTimePicker2 = New Guna.UI2.WinForms.Guna2DateTimePicker()
-        Guna2HtmlLabel10 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2Panel1.SuspendLayout()
         SuspendLayout()
         ' 
@@ -68,60 +68,89 @@ Partial Class loanMgt
         Guna2Panel1.BackColor = Color.White
         Guna2Panel1.BorderRadius = 10
         Guna2Panel1.Controls.Add(Guna2HtmlLabel10)
-        Guna2Panel1.Controls.Add(Guna2DateTimePicker2)
-        Guna2Panel1.Controls.Add(Guna2HtmlLabel9)
-        Guna2Panel1.Controls.Add(Guna2ComboBox4)
+        Guna2Panel1.Controls.Add(dtpStartDate)
+        Guna2Panel1.Controls.Add(txtAccountNumber)
+        Guna2Panel1.Controls.Add(cmbStatus)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel8)
-        Guna2Panel1.Controls.Add(Guna2TextBox1)
+        Guna2Panel1.Controls.Add(txtAmount)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel6)
-        Guna2Panel1.Controls.Add(Guna2ComboBox2)
-        Guna2Panel1.Controls.Add(Guna2Button3)
-        Guna2Panel1.Controls.Add(Guna2Button2)
-        Guna2Panel1.Controls.Add(Guna2ComboBox1)
+        Guna2Panel1.Controls.Add(cmbCustomer)
+        Guna2Panel1.Controls.Add(btnClear)
+        Guna2Panel1.Controls.Add(btnProcess)
+        Guna2Panel1.Controls.Add(cmbLoanType)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel5)
-        Guna2Panel1.Controls.Add(Guna2DateTimePicker1)
+        Guna2Panel1.Controls.Add(dtpEndDate)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel4)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel3)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel2)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel1)
-        Guna2Panel1.CustomizableEdges = CustomizableEdges17
+        Guna2Panel1.CustomizableEdges = CustomizableEdges35
         Guna2Panel1.Location = New Point(29, 156)
         Guna2Panel1.Name = "Guna2Panel1"
-        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges18
+        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges36
         Guna2Panel1.Size = New Size(907, 557)
         Guna2Panel1.TabIndex = 26
         ' 
-        ' Guna2HtmlLabel9
+        ' Guna2HtmlLabel10
         ' 
-        Guna2HtmlLabel9.AutoSize = False
-        Guna2HtmlLabel9.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2HtmlLabel9.Location = New Point(477, 100)
-        Guna2HtmlLabel9.Name = "Guna2HtmlLabel9"
-        Guna2HtmlLabel9.Padding = New Padding(10, 0, 0, 0)
-        Guna2HtmlLabel9.Size = New Size(409, 57)
-        Guna2HtmlLabel9.TabIndex = 54
-        Guna2HtmlLabel9.Text = "account number is auto generated"
-        Guna2HtmlLabel9.TextAlignment = ContentAlignment.MiddleLeft
+        Guna2HtmlLabel10.BackColor = Color.Transparent
+        Guna2HtmlLabel10.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Guna2HtmlLabel10.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
+        Guna2HtmlLabel10.Location = New Point(481, 356)
+        Guna2HtmlLabel10.Name = "Guna2HtmlLabel10"
+        Guna2HtmlLabel10.Size = New Size(78, 20)
+        Guna2HtmlLabel10.TabIndex = 56
+        Guna2HtmlLabel10.Text = "END DATE"
         ' 
-        ' Guna2ComboBox4
+        ' dtpStartDate
         ' 
-        Guna2ComboBox4.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2ComboBox4.BorderRadius = 7
-        Guna2ComboBox4.CustomizableEdges = CustomizableEdges3
-        Guna2ComboBox4.DrawMode = DrawMode.OwnerDrawFixed
-        Guna2ComboBox4.DropDownStyle = ComboBoxStyle.DropDownList
-        Guna2ComboBox4.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2ComboBox4.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2ComboBox4.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2ComboBox4.Font = New Font("Segoe UI", 10F)
-        Guna2ComboBox4.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
-        Guna2ComboBox4.ItemHeight = 30
-        Guna2ComboBox4.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
-        Guna2ComboBox4.Location = New Point(477, 207)
-        Guna2ComboBox4.Name = "Guna2ComboBox4"
-        Guna2ComboBox4.ShadowDecoration.CustomizableEdges = CustomizableEdges4
-        Guna2ComboBox4.Size = New Size(409, 36)
-        Guna2ComboBox4.TabIndex = 53
+        dtpStartDate.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        dtpStartDate.BorderRadius = 7
+        dtpStartDate.Checked = True
+        dtpStartDate.CustomizableEdges = CustomizableEdges19
+        dtpStartDate.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        dtpStartDate.Font = New Font("Segoe UI", 9F)
+        dtpStartDate.Format = DateTimePickerFormat.Long
+        dtpStartDate.Location = New Point(477, 285)
+        dtpStartDate.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
+        dtpStartDate.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
+        dtpStartDate.Name = "dtpStartDate"
+        dtpStartDate.ShadowDecoration.CustomizableEdges = CustomizableEdges20
+        dtpStartDate.Size = New Size(409, 57)
+        dtpStartDate.TabIndex = 55
+        dtpStartDate.Value = New Date(2026, 3, 31, 10, 10, 25, 280)
+        ' 
+        ' txtAccountNumber
+        ' 
+        txtAccountNumber.AutoSize = False
+        txtAccountNumber.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        txtAccountNumber.Location = New Point(477, 100)
+        txtAccountNumber.Name = "txtAccountNumber"
+        txtAccountNumber.Padding = New Padding(10, 0, 0, 0)
+        txtAccountNumber.Size = New Size(409, 57)
+        txtAccountNumber.TabIndex = 54
+        txtAccountNumber.Text = "account number is auto generated"
+        txtAccountNumber.TextAlignment = ContentAlignment.MiddleLeft
+        ' 
+        ' cmbStatus
+        ' 
+        cmbStatus.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbStatus.BorderRadius = 7
+        cmbStatus.CustomizableEdges = CustomizableEdges21
+        cmbStatus.DrawMode = DrawMode.OwnerDrawFixed
+        cmbStatus.DropDownStyle = ComboBoxStyle.DropDownList
+        cmbStatus.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbStatus.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbStatus.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbStatus.Font = New Font("Segoe UI", 10F)
+        cmbStatus.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
+        cmbStatus.ItemHeight = 30
+        cmbStatus.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
+        cmbStatus.Location = New Point(477, 207)
+        cmbStatus.Name = "cmbStatus"
+        cmbStatus.ShadowDecoration.CustomizableEdges = CustomizableEdges22
+        cmbStatus.Size = New Size(409, 36)
+        cmbStatus.TabIndex = 53
         ' 
         ' Guna2HtmlLabel8
         ' 
@@ -134,28 +163,28 @@ Partial Class loanMgt
         Guna2HtmlLabel8.TabIndex = 52
         Guna2HtmlLabel8.Text = "STATUS"
         ' 
-        ' Guna2TextBox1
+        ' txtAmount
         ' 
-        Guna2TextBox1.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2TextBox1.BorderRadius = 8
-        Guna2TextBox1.CustomizableEdges = CustomizableEdges5
-        Guna2TextBox1.DefaultText = ""
-        Guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
-        Guna2TextBox1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
-        Guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
-        Guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
-        Guna2TextBox1.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2TextBox1.Font = New Font("Segoe UI", 9F)
-        Guna2TextBox1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2TextBox1.Location = New Point(18, 285)
-        Guna2TextBox1.Margin = New Padding(3, 4, 3, 4)
-        Guna2TextBox1.Name = "Guna2TextBox1"
-        Guna2TextBox1.PlaceholderText = "0.00"
-        Guna2TextBox1.SelectedText = ""
-        Guna2TextBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges6
-        Guna2TextBox1.Size = New Size(409, 57)
-        Guna2TextBox1.TabIndex = 49
+        txtAmount.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        txtAmount.BorderRadius = 8
+        txtAmount.CustomizableEdges = CustomizableEdges23
+        txtAmount.DefaultText = ""
+        txtAmount.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        txtAmount.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        txtAmount.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        txtAmount.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        txtAmount.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        txtAmount.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        txtAmount.Font = New Font("Segoe UI", 9F)
+        txtAmount.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        txtAmount.Location = New Point(18, 285)
+        txtAmount.Margin = New Padding(3, 4, 3, 4)
+        txtAmount.Name = "txtAmount"
+        txtAmount.PlaceholderText = "0.00"
+        txtAmount.SelectedText = ""
+        txtAmount.ShadowDecoration.CustomizableEdges = CustomizableEdges24
+        txtAmount.Size = New Size(409, 57)
+        txtAmount.TabIndex = 49
         ' 
         ' Guna2HtmlLabel6
         ' 
@@ -164,85 +193,85 @@ Partial Class loanMgt
         Guna2HtmlLabel6.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
         Guna2HtmlLabel6.Location = New Point(18, 258)
         Guna2HtmlLabel6.Name = "Guna2HtmlLabel6"
-        Guna2HtmlLabel6.Size = New Size(71, 20)
+        Guna2HtmlLabel6.Size = New Size(68, 20)
         Guna2HtmlLabel6.TabIndex = 48
-        Guna2HtmlLabel6.Text = "BALANCE"
+        Guna2HtmlLabel6.Text = "AMOUNT"
         ' 
-        ' Guna2ComboBox2
+        ' cmbCustomer
         ' 
-        Guna2ComboBox2.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2ComboBox2.BorderRadius = 7
-        Guna2ComboBox2.CustomizableEdges = CustomizableEdges7
-        Guna2ComboBox2.DrawMode = DrawMode.OwnerDrawFixed
-        Guna2ComboBox2.DropDownStyle = ComboBoxStyle.DropDownList
-        Guna2ComboBox2.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2ComboBox2.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2ComboBox2.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2ComboBox2.Font = New Font("Segoe UI", 10F)
-        Guna2ComboBox2.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
-        Guna2ComboBox2.ItemHeight = 30
-        Guna2ComboBox2.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
-        Guna2ComboBox2.Location = New Point(18, 110)
-        Guna2ComboBox2.Name = "Guna2ComboBox2"
-        Guna2ComboBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges8
-        Guna2ComboBox2.Size = New Size(409, 36)
-        Guna2ComboBox2.TabIndex = 47
+        cmbCustomer.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbCustomer.BorderRadius = 7
+        cmbCustomer.CustomizableEdges = CustomizableEdges25
+        cmbCustomer.DrawMode = DrawMode.OwnerDrawFixed
+        cmbCustomer.DropDownStyle = ComboBoxStyle.DropDownList
+        cmbCustomer.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbCustomer.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbCustomer.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbCustomer.Font = New Font("Segoe UI", 10F)
+        cmbCustomer.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
+        cmbCustomer.ItemHeight = 30
+        cmbCustomer.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
+        cmbCustomer.Location = New Point(18, 110)
+        cmbCustomer.Name = "cmbCustomer"
+        cmbCustomer.ShadowDecoration.CustomizableEdges = CustomizableEdges26
+        cmbCustomer.Size = New Size(409, 36)
+        cmbCustomer.TabIndex = 47
         ' 
-        ' Guna2Button3
+        ' btnClear
         ' 
-        Guna2Button3.BorderRadius = 7
-        Guna2Button3.CustomizableEdges = CustomizableEdges9
-        Guna2Button3.DisabledState.BorderColor = Color.DarkGray
-        Guna2Button3.DisabledState.CustomBorderColor = Color.DarkGray
-        Guna2Button3.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
-        Guna2Button3.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
-        Guna2Button3.FillColor = Color.FromArgb(CByte(192), CByte(0), CByte(0))
-        Guna2Button3.Font = New Font("Segoe UI", 9F)
-        Guna2Button3.ForeColor = Color.White
-        Guna2Button3.Location = New Point(18, 449)
-        Guna2Button3.Name = "Guna2Button3"
-        Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges10
-        Guna2Button3.Size = New Size(409, 57)
-        Guna2Button3.TabIndex = 46
-        Guna2Button3.Text = "CLEAR"
+        btnClear.BorderRadius = 7
+        btnClear.CustomizableEdges = CustomizableEdges27
+        btnClear.DisabledState.BorderColor = Color.DarkGray
+        btnClear.DisabledState.CustomBorderColor = Color.DarkGray
+        btnClear.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        btnClear.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        btnClear.FillColor = Color.FromArgb(CByte(192), CByte(0), CByte(0))
+        btnClear.Font = New Font("Segoe UI", 9F)
+        btnClear.ForeColor = Color.White
+        btnClear.Location = New Point(18, 449)
+        btnClear.Name = "btnClear"
+        btnClear.ShadowDecoration.CustomizableEdges = CustomizableEdges28
+        btnClear.Size = New Size(409, 57)
+        btnClear.TabIndex = 46
+        btnClear.Text = "CLEAR"
         ' 
-        ' Guna2Button2
+        ' btnProcess
         ' 
-        Guna2Button2.BorderRadius = 7
-        Guna2Button2.CustomizableEdges = CustomizableEdges11
-        Guna2Button2.DisabledState.BorderColor = Color.DarkGray
-        Guna2Button2.DisabledState.CustomBorderColor = Color.DarkGray
-        Guna2Button2.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
-        Guna2Button2.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
-        Guna2Button2.FillColor = Color.DarkBlue
-        Guna2Button2.Font = New Font("Segoe UI", 9F)
-        Guna2Button2.ForeColor = Color.White
-        Guna2Button2.Location = New Point(18, 372)
-        Guna2Button2.Name = "Guna2Button2"
-        Guna2Button2.ShadowDecoration.CustomizableEdges = CustomizableEdges12
-        Guna2Button2.Size = New Size(409, 57)
-        Guna2Button2.TabIndex = 44
-        Guna2Button2.Text = "PROCESS APPLICATION"
+        btnProcess.BorderRadius = 7
+        btnProcess.CustomizableEdges = CustomizableEdges29
+        btnProcess.DisabledState.BorderColor = Color.DarkGray
+        btnProcess.DisabledState.CustomBorderColor = Color.DarkGray
+        btnProcess.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        btnProcess.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        btnProcess.FillColor = Color.DarkBlue
+        btnProcess.Font = New Font("Segoe UI", 9F)
+        btnProcess.ForeColor = Color.White
+        btnProcess.Location = New Point(18, 372)
+        btnProcess.Name = "btnProcess"
+        btnProcess.ShadowDecoration.CustomizableEdges = CustomizableEdges30
+        btnProcess.Size = New Size(409, 57)
+        btnProcess.TabIndex = 44
+        btnProcess.Text = "PROCESS APPLICATION"
         ' 
-        ' Guna2ComboBox1
+        ' cmbLoanType
         ' 
-        Guna2ComboBox1.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2ComboBox1.BorderRadius = 7
-        Guna2ComboBox1.CustomizableEdges = CustomizableEdges13
-        Guna2ComboBox1.DrawMode = DrawMode.OwnerDrawFixed
-        Guna2ComboBox1.DropDownStyle = ComboBoxStyle.DropDownList
-        Guna2ComboBox1.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2ComboBox1.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2ComboBox1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2ComboBox1.Font = New Font("Segoe UI", 10F)
-        Guna2ComboBox1.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
-        Guna2ComboBox1.ItemHeight = 30
-        Guna2ComboBox1.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
-        Guna2ComboBox1.Location = New Point(18, 207)
-        Guna2ComboBox1.Name = "Guna2ComboBox1"
-        Guna2ComboBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges14
-        Guna2ComboBox1.Size = New Size(409, 36)
-        Guna2ComboBox1.TabIndex = 33
+        cmbLoanType.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbLoanType.BorderRadius = 7
+        cmbLoanType.CustomizableEdges = CustomizableEdges31
+        cmbLoanType.DrawMode = DrawMode.OwnerDrawFixed
+        cmbLoanType.DropDownStyle = ComboBoxStyle.DropDownList
+        cmbLoanType.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbLoanType.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbLoanType.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbLoanType.Font = New Font("Segoe UI", 10F)
+        cmbLoanType.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
+        cmbLoanType.ItemHeight = 30
+        cmbLoanType.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
+        cmbLoanType.Location = New Point(18, 207)
+        cmbLoanType.Name = "cmbLoanType"
+        cmbLoanType.ShadowDecoration.CustomizableEdges = CustomizableEdges32
+        cmbLoanType.Size = New Size(409, 36)
+        cmbLoanType.TabIndex = 33
         ' 
         ' Guna2HtmlLabel5
         ' 
@@ -255,23 +284,23 @@ Partial Class loanMgt
         Guna2HtmlLabel5.TabIndex = 32
         Guna2HtmlLabel5.Text = "LOAN TYPE"
         ' 
-        ' Guna2DateTimePicker1
+        ' dtpEndDate
         ' 
-        Guna2DateTimePicker1.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2DateTimePicker1.BorderRadius = 7
-        Guna2DateTimePicker1.Checked = True
-        Guna2DateTimePicker1.CustomizableEdges = CustomizableEdges15
-        Guna2DateTimePicker1.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2DateTimePicker1.Font = New Font("Segoe UI", 9F)
-        Guna2DateTimePicker1.Format = DateTimePickerFormat.Long
-        Guna2DateTimePicker1.Location = New Point(477, 382)
-        Guna2DateTimePicker1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
-        Guna2DateTimePicker1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
-        Guna2DateTimePicker1.Name = "Guna2DateTimePicker1"
-        Guna2DateTimePicker1.ShadowDecoration.CustomizableEdges = CustomizableEdges16
-        Guna2DateTimePicker1.Size = New Size(409, 57)
-        Guna2DateTimePicker1.TabIndex = 31
-        Guna2DateTimePicker1.Value = New Date(2026, 3, 31, 10, 10, 25, 280)
+        dtpEndDate.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        dtpEndDate.BorderRadius = 7
+        dtpEndDate.Checked = True
+        dtpEndDate.CustomizableEdges = CustomizableEdges33
+        dtpEndDate.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        dtpEndDate.Font = New Font("Segoe UI", 9F)
+        dtpEndDate.Format = DateTimePickerFormat.Long
+        dtpEndDate.Location = New Point(477, 382)
+        dtpEndDate.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
+        dtpEndDate.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
+        dtpEndDate.Name = "dtpEndDate"
+        dtpEndDate.ShadowDecoration.CustomizableEdges = CustomizableEdges34
+        dtpEndDate.Size = New Size(409, 57)
+        dtpEndDate.TabIndex = 31
+        dtpEndDate.Value = New Date(2026, 3, 31, 10, 10, 25, 280)
         ' 
         ' Guna2HtmlLabel4
         ' 
@@ -339,35 +368,6 @@ Partial Class loanMgt
         Guna2HtmlLabel18.TabIndex = 28
         Guna2HtmlLabel18.Text = "Approve, reject and manage loans"
         ' 
-        ' Guna2DateTimePicker2
-        ' 
-        Guna2DateTimePicker2.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2DateTimePicker2.BorderRadius = 7
-        Guna2DateTimePicker2.Checked = True
-        Guna2DateTimePicker2.CustomizableEdges = CustomizableEdges1
-        Guna2DateTimePicker2.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2DateTimePicker2.Font = New Font("Segoe UI", 9F)
-        Guna2DateTimePicker2.Format = DateTimePickerFormat.Long
-        Guna2DateTimePicker2.Location = New Point(477, 285)
-        Guna2DateTimePicker2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
-        Guna2DateTimePicker2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
-        Guna2DateTimePicker2.Name = "Guna2DateTimePicker2"
-        Guna2DateTimePicker2.ShadowDecoration.CustomizableEdges = CustomizableEdges2
-        Guna2DateTimePicker2.Size = New Size(409, 57)
-        Guna2DateTimePicker2.TabIndex = 55
-        Guna2DateTimePicker2.Value = New Date(2026, 3, 31, 10, 10, 25, 280)
-        ' 
-        ' Guna2HtmlLabel10
-        ' 
-        Guna2HtmlLabel10.BackColor = Color.Transparent
-        Guna2HtmlLabel10.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel10.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
-        Guna2HtmlLabel10.Location = New Point(481, 356)
-        Guna2HtmlLabel10.Name = "Guna2HtmlLabel10"
-        Guna2HtmlLabel10.Size = New Size(78, 20)
-        Guna2HtmlLabel10.TabIndex = 56
-        Guna2HtmlLabel10.Text = "END DATE"
-        ' 
         ' loanMgt
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
@@ -384,24 +384,24 @@ Partial Class loanMgt
     End Sub
 
     Friend WithEvents Guna2Panel1 As Guna.UI2.WinForms.Guna2Panel
-    Friend WithEvents Guna2HtmlLabel9 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2ComboBox4 As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents txtAccountNumber As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents cmbStatus As Guna.UI2.WinForms.Guna2ComboBox
     Friend WithEvents Guna2HtmlLabel8 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2TextBox1 As Guna.UI2.WinForms.Guna2TextBox
+    Friend WithEvents txtAmount As Guna.UI2.WinForms.Guna2TextBox
     Friend WithEvents Guna2HtmlLabel6 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2ComboBox2 As Guna.UI2.WinForms.Guna2ComboBox
-    Friend WithEvents Guna2Button3 As Guna.UI2.WinForms.Guna2Button
-    Friend WithEvents Guna2Button2 As Guna.UI2.WinForms.Guna2Button
-    Friend WithEvents Guna2ComboBox1 As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents cmbCustomer As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents btnClear As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents btnProcess As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents cmbLoanType As Guna.UI2.WinForms.Guna2ComboBox
     Friend WithEvents Guna2HtmlLabel5 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2DateTimePicker1 As Guna.UI2.WinForms.Guna2DateTimePicker
+    Friend WithEvents dtpEndDate As Guna.UI2.WinForms.Guna2DateTimePicker
     Friend WithEvents Guna2HtmlLabel4 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel3 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel2 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel1 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel17 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel18 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2DateTimePicker2 As Guna.UI2.WinForms.Guna2DateTimePicker
+    Friend WithEvents dtpStartDate As Guna.UI2.WinForms.Guna2DateTimePicker
     Friend WithEvents Guna2HtmlLabel10 As Guna.UI2.WinForms.Guna2HtmlLabel
 
 End Class
