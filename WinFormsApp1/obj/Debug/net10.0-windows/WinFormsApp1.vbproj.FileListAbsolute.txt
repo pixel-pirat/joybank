@@ -51,3 +51,4 @@ C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\
 C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.fixedDeposit.resources
+C:\Users\Admin\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.cardAdministration.resources

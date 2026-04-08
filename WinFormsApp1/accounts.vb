@@ -20,8 +20,22 @@
         End Try
     End Sub
     Private Sub Guna2Button1_Click(sender As Object, e As EventArgs) Handles Guna2Button1.Click
+        Controls.Clear
+        Dim uc As New accountForm
+        uc.Dock = DockStyle.Fill
+        Controls.Add(uc)
+    End Sub
+
+    Private Sub Guna2Button2_Click(sender As Object, e As EventArgs) Handles Guna2Button2.Click
         Controls.Clear()
-        Dim uc As New accountForm()
+        Dim uc As New cardAdministration
+        uc.Dock = DockStyle.Fill
+        Controls.Add(uc)
+    End Sub
+
+    Private Sub Guna2Button3_Click(sender As Object, e As EventArgs) Handles Guna2Button3.Click
+        Controls.Clear()
+        Dim uc As New fixedDeposit
         uc.Dock = DockStyle.Fill
         Controls.Add(uc)
     End Sub

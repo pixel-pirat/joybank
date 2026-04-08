@@ -22,33 +22,33 @@ Partial Class cardAdministration
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim CustomizableEdges13 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges14 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges1 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges2 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges3 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges4 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges5 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges6 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges7 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges8 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges9 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges10 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges11 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges12 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges15 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges16 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges29 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges30 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges17 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges18 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges19 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges20 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges21 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges22 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges23 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges24 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges25 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges26 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges27 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges28 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges31 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges32 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Guna2Panel1 = New Guna.UI2.WinForms.Guna2Panel()
-        Guna2ComboBox1 = New Guna.UI2.WinForms.Guna2ComboBox()
-        Guna2HtmlLabel7 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        cmbCardType = New Guna.UI2.WinForms.Guna2ComboBox()
+        lblCardNumber = New Guna.UI2.WinForms.Guna2HtmlLabel()
         dtpStartDate = New Guna.UI2.WinForms.Guna2DateTimePicker()
         lblAccountNumber = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        cmbStatus = New Guna.UI2.WinForms.Guna2ComboBox()
+        cmbCardStatus = New Guna.UI2.WinForms.Guna2ComboBox()
         Guna2HtmlLabel8 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel6 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        cmbAccountNumber = New Guna.UI2.WinForms.Guna2ComboBox()
+        cmbCustomer = New Guna.UI2.WinForms.Guna2ComboBox()
         btnClear = New Guna.UI2.WinForms.Guna2Button()
-        btnProcess = New Guna.UI2.WinForms.Guna2Button()
+        btnCreateCard = New Guna.UI2.WinForms.Guna2Button()
         Guna2HtmlLabel5 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel4 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel3 = New Guna.UI2.WinForms.Guna2HtmlLabel()
@@ -57,9 +57,12 @@ Partial Class cardAdministration
         Guna2HtmlLabel17 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel18 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2GradientPanel1 = New Guna.UI2.WinForms.Guna2GradientPanel()
-        Guna2HtmlLabel12 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        lblPreviewExpiry = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        lblPreviewCardType = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Guna2HtmlLabel13 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        lblPreviewCustomer = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel11 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2HtmlLabel10 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        lblPreviewCardNumber = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel9 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2Panel1.SuspendLayout()
         Guna2GradientPanel1.SuspendLayout()
@@ -69,66 +72,66 @@ Partial Class cardAdministration
         ' 
         Guna2Panel1.BackColor = Color.White
         Guna2Panel1.BorderRadius = 10
-        Guna2Panel1.Controls.Add(Guna2ComboBox1)
-        Guna2Panel1.Controls.Add(Guna2HtmlLabel7)
+        Guna2Panel1.Controls.Add(cmbCardType)
+        Guna2Panel1.Controls.Add(lblCardNumber)
         Guna2Panel1.Controls.Add(dtpStartDate)
         Guna2Panel1.Controls.Add(lblAccountNumber)
-        Guna2Panel1.Controls.Add(cmbStatus)
+        Guna2Panel1.Controls.Add(cmbCardStatus)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel8)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel6)
-        Guna2Panel1.Controls.Add(cmbAccountNumber)
+        Guna2Panel1.Controls.Add(cmbCustomer)
         Guna2Panel1.Controls.Add(btnClear)
-        Guna2Panel1.Controls.Add(btnProcess)
+        Guna2Panel1.Controls.Add(btnCreateCard)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel5)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel4)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel3)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel2)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel1)
-        Guna2Panel1.CustomizableEdges = CustomizableEdges13
+        Guna2Panel1.CustomizableEdges = CustomizableEdges29
         Guna2Panel1.Location = New Point(32, 164)
         Guna2Panel1.Name = "Guna2Panel1"
-        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges14
+        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges30
         Guna2Panel1.Size = New Size(907, 557)
         Guna2Panel1.TabIndex = 28
         ' 
-        ' Guna2ComboBox1
+        ' cmbCardType
         ' 
-        Guna2ComboBox1.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2ComboBox1.BorderRadius = 7
-        Guna2ComboBox1.CustomizableEdges = CustomizableEdges1
-        Guna2ComboBox1.DrawMode = DrawMode.OwnerDrawFixed
-        Guna2ComboBox1.DropDownStyle = ComboBoxStyle.DropDownList
-        Guna2ComboBox1.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2ComboBox1.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2ComboBox1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2ComboBox1.Font = New Font("Segoe UI", 10F)
-        Guna2ComboBox1.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
-        Guna2ComboBox1.ItemHeight = 30
-        Guna2ComboBox1.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
-        Guna2ComboBox1.Location = New Point(18, 298)
-        Guna2ComboBox1.Name = "Guna2ComboBox1"
-        Guna2ComboBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges2
-        Guna2ComboBox1.Size = New Size(409, 36)
-        Guna2ComboBox1.TabIndex = 58
+        cmbCardType.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbCardType.BorderRadius = 7
+        cmbCardType.CustomizableEdges = CustomizableEdges17
+        cmbCardType.DrawMode = DrawMode.OwnerDrawFixed
+        cmbCardType.DropDownStyle = ComboBoxStyle.DropDownList
+        cmbCardType.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbCardType.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbCardType.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbCardType.Font = New Font("Segoe UI", 10F)
+        cmbCardType.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
+        cmbCardType.ItemHeight = 30
+        cmbCardType.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
+        cmbCardType.Location = New Point(18, 298)
+        cmbCardType.Name = "cmbCardType"
+        cmbCardType.ShadowDecoration.CustomizableEdges = CustomizableEdges18
+        cmbCardType.Size = New Size(409, 36)
+        cmbCardType.TabIndex = 58
         ' 
-        ' Guna2HtmlLabel7
+        ' lblCardNumber
         ' 
-        Guna2HtmlLabel7.AutoSize = False
-        Guna2HtmlLabel7.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        Guna2HtmlLabel7.Location = New Point(21, 193)
-        Guna2HtmlLabel7.Name = "Guna2HtmlLabel7"
-        Guna2HtmlLabel7.Padding = New Padding(10, 0, 0, 0)
-        Guna2HtmlLabel7.Size = New Size(409, 57)
-        Guna2HtmlLabel7.TabIndex = 57
-        Guna2HtmlLabel7.Text = "Card Numebr is Auto Filled"
-        Guna2HtmlLabel7.TextAlignment = ContentAlignment.MiddleLeft
+        lblCardNumber.AutoSize = False
+        lblCardNumber.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        lblCardNumber.Location = New Point(21, 193)
+        lblCardNumber.Name = "lblCardNumber"
+        lblCardNumber.Padding = New Padding(10, 0, 0, 0)
+        lblCardNumber.Size = New Size(409, 57)
+        lblCardNumber.TabIndex = 57
+        lblCardNumber.Text = "Card Numebr is Auto Filled"
+        lblCardNumber.TextAlignment = ContentAlignment.MiddleLeft
         ' 
         ' dtpStartDate
         ' 
         dtpStartDate.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
         dtpStartDate.BorderRadius = 7
         dtpStartDate.Checked = True
-        dtpStartDate.CustomizableEdges = CustomizableEdges3
+        dtpStartDate.CustomizableEdges = CustomizableEdges19
         dtpStartDate.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
         dtpStartDate.Font = New Font("Segoe UI", 9F)
         dtpStartDate.Format = DateTimePickerFormat.Long
@@ -136,7 +139,7 @@ Partial Class cardAdministration
         dtpStartDate.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         dtpStartDate.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         dtpStartDate.Name = "dtpStartDate"
-        dtpStartDate.ShadowDecoration.CustomizableEdges = CustomizableEdges4
+        dtpStartDate.ShadowDecoration.CustomizableEdges = CustomizableEdges20
         dtpStartDate.Size = New Size(409, 57)
         dtpStartDate.TabIndex = 55
         dtpStartDate.Value = New Date(2026, 3, 31, 10, 10, 25, 280)
@@ -153,25 +156,25 @@ Partial Class cardAdministration
         lblAccountNumber.Text = "Account Number is Auto Filled"
         lblAccountNumber.TextAlignment = ContentAlignment.MiddleLeft
         ' 
-        ' cmbStatus
+        ' cmbCardStatus
         ' 
-        cmbStatus.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        cmbStatus.BorderRadius = 7
-        cmbStatus.CustomizableEdges = CustomizableEdges5
-        cmbStatus.DrawMode = DrawMode.OwnerDrawFixed
-        cmbStatus.DropDownStyle = ComboBoxStyle.DropDownList
-        cmbStatus.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        cmbStatus.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        cmbStatus.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        cmbStatus.Font = New Font("Segoe UI", 10F)
-        cmbStatus.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
-        cmbStatus.ItemHeight = 30
-        cmbStatus.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
-        cmbStatus.Location = New Point(477, 207)
-        cmbStatus.Name = "cmbStatus"
-        cmbStatus.ShadowDecoration.CustomizableEdges = CustomizableEdges6
-        cmbStatus.Size = New Size(409, 36)
-        cmbStatus.TabIndex = 53
+        cmbCardStatus.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbCardStatus.BorderRadius = 7
+        cmbCardStatus.CustomizableEdges = CustomizableEdges21
+        cmbCardStatus.DrawMode = DrawMode.OwnerDrawFixed
+        cmbCardStatus.DropDownStyle = ComboBoxStyle.DropDownList
+        cmbCardStatus.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbCardStatus.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbCardStatus.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbCardStatus.Font = New Font("Segoe UI", 10F)
+        cmbCardStatus.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
+        cmbCardStatus.ItemHeight = 30
+        cmbCardStatus.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
+        cmbCardStatus.Location = New Point(477, 207)
+        cmbCardStatus.Name = "cmbCardStatus"
+        cmbCardStatus.ShadowDecoration.CustomizableEdges = CustomizableEdges22
+        cmbCardStatus.Size = New Size(409, 36)
+        cmbCardStatus.TabIndex = 53
         ' 
         ' Guna2HtmlLabel8
         ' 
@@ -195,30 +198,30 @@ Partial Class cardAdministration
         Guna2HtmlLabel6.TabIndex = 48
         Guna2HtmlLabel6.Text = "CARD TYPE"
         ' 
-        ' cmbAccountNumber
+        ' cmbCustomer
         ' 
-        cmbAccountNumber.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        cmbAccountNumber.BorderRadius = 7
-        cmbAccountNumber.CustomizableEdges = CustomizableEdges7
-        cmbAccountNumber.DrawMode = DrawMode.OwnerDrawFixed
-        cmbAccountNumber.DropDownStyle = ComboBoxStyle.DropDownList
-        cmbAccountNumber.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        cmbAccountNumber.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        cmbAccountNumber.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        cmbAccountNumber.Font = New Font("Segoe UI", 10F)
-        cmbAccountNumber.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
-        cmbAccountNumber.ItemHeight = 30
-        cmbAccountNumber.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
-        cmbAccountNumber.Location = New Point(18, 110)
-        cmbAccountNumber.Name = "cmbAccountNumber"
-        cmbAccountNumber.ShadowDecoration.CustomizableEdges = CustomizableEdges8
-        cmbAccountNumber.Size = New Size(409, 36)
-        cmbAccountNumber.TabIndex = 47
+        cmbCustomer.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbCustomer.BorderRadius = 7
+        cmbCustomer.CustomizableEdges = CustomizableEdges23
+        cmbCustomer.DrawMode = DrawMode.OwnerDrawFixed
+        cmbCustomer.DropDownStyle = ComboBoxStyle.DropDownList
+        cmbCustomer.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbCustomer.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbCustomer.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbCustomer.Font = New Font("Segoe UI", 10F)
+        cmbCustomer.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
+        cmbCustomer.ItemHeight = 30
+        cmbCustomer.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
+        cmbCustomer.Location = New Point(18, 110)
+        cmbCustomer.Name = "cmbCustomer"
+        cmbCustomer.ShadowDecoration.CustomizableEdges = CustomizableEdges24
+        cmbCustomer.Size = New Size(409, 36)
+        cmbCustomer.TabIndex = 47
         ' 
         ' btnClear
         ' 
         btnClear.BorderRadius = 7
-        btnClear.CustomizableEdges = CustomizableEdges9
+        btnClear.CustomizableEdges = CustomizableEdges25
         btnClear.DisabledState.BorderColor = Color.DarkGray
         btnClear.DisabledState.CustomBorderColor = Color.DarkGray
         btnClear.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
@@ -228,28 +231,28 @@ Partial Class cardAdministration
         btnClear.ForeColor = Color.White
         btnClear.Location = New Point(18, 449)
         btnClear.Name = "btnClear"
-        btnClear.ShadowDecoration.CustomizableEdges = CustomizableEdges10
+        btnClear.ShadowDecoration.CustomizableEdges = CustomizableEdges26
         btnClear.Size = New Size(409, 57)
         btnClear.TabIndex = 46
         btnClear.Text = "CLEAR"
         ' 
-        ' btnProcess
+        ' btnCreateCard
         ' 
-        btnProcess.BorderRadius = 7
-        btnProcess.CustomizableEdges = CustomizableEdges11
-        btnProcess.DisabledState.BorderColor = Color.DarkGray
-        btnProcess.DisabledState.CustomBorderColor = Color.DarkGray
-        btnProcess.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
-        btnProcess.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
-        btnProcess.FillColor = Color.DarkBlue
-        btnProcess.Font = New Font("Segoe UI", 9F)
-        btnProcess.ForeColor = Color.White
-        btnProcess.Location = New Point(18, 372)
-        btnProcess.Name = "btnProcess"
-        btnProcess.ShadowDecoration.CustomizableEdges = CustomizableEdges12
-        btnProcess.Size = New Size(409, 57)
-        btnProcess.TabIndex = 44
-        btnProcess.Text = "CREATE CARD"
+        btnCreateCard.BorderRadius = 7
+        btnCreateCard.CustomizableEdges = CustomizableEdges27
+        btnCreateCard.DisabledState.BorderColor = Color.DarkGray
+        btnCreateCard.DisabledState.CustomBorderColor = Color.DarkGray
+        btnCreateCard.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        btnCreateCard.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        btnCreateCard.FillColor = Color.DarkBlue
+        btnCreateCard.Font = New Font("Segoe UI", 9F)
+        btnCreateCard.ForeColor = Color.White
+        btnCreateCard.Location = New Point(18, 372)
+        btnCreateCard.Name = "btnCreateCard"
+        btnCreateCard.ShadowDecoration.CustomizableEdges = CustomizableEdges28
+        btnCreateCard.Size = New Size(409, 57)
+        btnCreateCard.TabIndex = 44
+        btnCreateCard.Text = "CREATE CARD"
         ' 
         ' Guna2HtmlLabel5
         ' 
@@ -330,59 +333,95 @@ Partial Class cardAdministration
         ' 
         ' Guna2GradientPanel1
         ' 
-        Guna2GradientPanel1.Controls.Add(Guna2HtmlLabel12)
+        Guna2GradientPanel1.Controls.Add(lblPreviewExpiry)
+        Guna2GradientPanel1.Controls.Add(lblPreviewCardType)
+        Guna2GradientPanel1.Controls.Add(Guna2HtmlLabel13)
+        Guna2GradientPanel1.Controls.Add(lblPreviewCustomer)
         Guna2GradientPanel1.Controls.Add(Guna2HtmlLabel11)
-        Guna2GradientPanel1.Controls.Add(Guna2HtmlLabel10)
+        Guna2GradientPanel1.Controls.Add(lblPreviewCardNumber)
         Guna2GradientPanel1.Controls.Add(Guna2HtmlLabel9)
-        Guna2GradientPanel1.CustomizableEdges = CustomizableEdges15
+        Guna2GradientPanel1.CustomizableEdges = CustomizableEdges31
         Guna2GradientPanel1.FillColor = Color.Gold
         Guna2GradientPanel1.FillColor2 = Color.Orange
         Guna2GradientPanel1.GradientMode = Drawing2D.LinearGradientMode.ForwardDiagonal
         Guna2GradientPanel1.Location = New Point(961, 164)
         Guna2GradientPanel1.Name = "Guna2GradientPanel1"
-        Guna2GradientPanel1.ShadowDecoration.CustomizableEdges = CustomizableEdges16
+        Guna2GradientPanel1.ShadowDecoration.CustomizableEdges = CustomizableEdges32
         Guna2GradientPanel1.Size = New Size(454, 232)
         Guna2GradientPanel1.TabIndex = 61
         ' 
-        ' Guna2HtmlLabel12
+        ' lblPreviewExpiry
         ' 
-        Guna2HtmlLabel12.BackColor = Color.Transparent
-        Guna2HtmlLabel12.Font = New Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel12.ForeColor = Color.Black
-        Guna2HtmlLabel12.Location = New Point(19, 193)
-        Guna2HtmlLabel12.Name = "Guna2HtmlLabel12"
-        Guna2HtmlLabel12.Size = New Size(158, 27)
-        Guna2HtmlLabel12.TabIndex = 60
-        Guna2HtmlLabel12.Text = "Customer Name"
+        lblPreviewExpiry.BackColor = Color.Transparent
+        lblPreviewExpiry.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        lblPreviewExpiry.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
+        lblPreviewExpiry.Location = New Point(352, 100)
+        lblPreviewExpiry.Name = "lblPreviewExpiry"
+        lblPreviewExpiry.Size = New Size(83, 20)
+        lblPreviewExpiry.TabIndex = 63
+        lblPreviewExpiry.Text = "Card Holder"
+        ' 
+        ' lblPreviewCardType
+        ' 
+        lblPreviewCardType.BackColor = Color.Transparent
+        lblPreviewCardType.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        lblPreviewCardType.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
+        lblPreviewCardType.Location = New Point(352, 202)
+        lblPreviewCardType.Name = "lblPreviewCardType"
+        lblPreviewCardType.Size = New Size(83, 20)
+        lblPreviewCardType.TabIndex = 62
+        lblPreviewCardType.Text = "Card Holder"
+        ' 
+        ' Guna2HtmlLabel13
+        ' 
+        Guna2HtmlLabel13.BackColor = Color.Transparent
+        Guna2HtmlLabel13.Font = New Font("Microsoft Sans Serif", 13F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Guna2HtmlLabel13.ForeColor = Color.Black
+        Guna2HtmlLabel13.Location = New Point(19, 23)
+        Guna2HtmlLabel13.Name = "Guna2HtmlLabel13"
+        Guna2HtmlLabel13.Size = New Size(101, 28)
+        Guna2HtmlLabel13.TabIndex = 61
+        Guna2HtmlLabel13.Text = "Joy Bank"
+        ' 
+        ' lblPreviewCustomer
+        ' 
+        lblPreviewCustomer.BackColor = Color.Transparent
+        lblPreviewCustomer.Font = New Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        lblPreviewCustomer.ForeColor = Color.Black
+        lblPreviewCustomer.Location = New Point(19, 193)
+        lblPreviewCustomer.Name = "lblPreviewCustomer"
+        lblPreviewCustomer.Size = New Size(158, 27)
+        lblPreviewCustomer.TabIndex = 60
+        lblPreviewCustomer.Text = "Customer Name"
         ' 
         ' Guna2HtmlLabel11
         ' 
         Guna2HtmlLabel11.BackColor = Color.Transparent
         Guna2HtmlLabel11.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Guna2HtmlLabel11.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
-        Guna2HtmlLabel11.Location = New Point(19, 168)
+        Guna2HtmlLabel11.Location = New Point(19, 167)
         Guna2HtmlLabel11.Name = "Guna2HtmlLabel11"
         Guna2HtmlLabel11.Size = New Size(83, 20)
         Guna2HtmlLabel11.TabIndex = 59
         Guna2HtmlLabel11.Text = "Card Holder"
         ' 
-        ' Guna2HtmlLabel10
+        ' lblPreviewCardNumber
         ' 
-        Guna2HtmlLabel10.BackColor = Color.Transparent
-        Guna2HtmlLabel10.Font = New Font("Microsoft Sans Serif", 13F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel10.ForeColor = Color.Black
-        Guna2HtmlLabel10.Location = New Point(19, 129)
-        Guna2HtmlLabel10.Name = "Guna2HtmlLabel10"
-        Guna2HtmlLabel10.Size = New Size(284, 28)
-        Guna2HtmlLabel10.TabIndex = 59
-        Guna2HtmlLabel10.Text = "14524   25852   56854   47485"
+        lblPreviewCardNumber.BackColor = Color.Transparent
+        lblPreviewCardNumber.Font = New Font("Microsoft Sans Serif", 13F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        lblPreviewCardNumber.ForeColor = Color.Black
+        lblPreviewCardNumber.Location = New Point(19, 100)
+        lblPreviewCardNumber.Name = "lblPreviewCardNumber"
+        lblPreviewCardNumber.Size = New Size(284, 28)
+        lblPreviewCardNumber.TabIndex = 59
+        lblPreviewCardNumber.Text = "14524   25852   56854   47485"
         ' 
         ' Guna2HtmlLabel9
         ' 
         Guna2HtmlLabel9.BackColor = Color.Transparent
         Guna2HtmlLabel9.Font = New Font("Microsoft Sans Serif", 13F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Guna2HtmlLabel9.ForeColor = Color.Black
-        Guna2HtmlLabel9.Location = New Point(19, 23)
+        Guna2HtmlLabel9.Location = New Point(304, 168)
         Guna2HtmlLabel9.Name = "Guna2HtmlLabel9"
         Guna2HtmlLabel9.Size = New Size(131, 28)
         Guna2HtmlLabel9.TabIndex = 59
@@ -409,12 +448,12 @@ Partial Class cardAdministration
     Friend WithEvents Guna2Panel1 As Guna.UI2.WinForms.Guna2Panel
     Friend WithEvents dtpStartDate As Guna.UI2.WinForms.Guna2DateTimePicker
     Friend WithEvents lblAccountNumber As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents cmbStatus As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents cmbCardStatus As Guna.UI2.WinForms.Guna2ComboBox
     Friend WithEvents Guna2HtmlLabel8 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel6 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents cmbAccountNumber As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents cmbCustomer As Guna.UI2.WinForms.Guna2ComboBox
     Friend WithEvents btnClear As Guna.UI2.WinForms.Guna2Button
-    Friend WithEvents btnProcess As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents btnCreateCard As Guna.UI2.WinForms.Guna2Button
     Friend WithEvents Guna2HtmlLabel5 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel4 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel3 As Guna.UI2.WinForms.Guna2HtmlLabel
@@ -422,12 +461,15 @@ Partial Class cardAdministration
     Friend WithEvents Guna2HtmlLabel1 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel17 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel18 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2ComboBox1 As Guna.UI2.WinForms.Guna2ComboBox
-    Friend WithEvents Guna2HtmlLabel7 As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents cmbCardType As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents lblCardNumber As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2GradientPanel1 As Guna.UI2.WinForms.Guna2GradientPanel
     Friend WithEvents Guna2HtmlLabel9 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2HtmlLabel12 As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents lblPreviewCustomer As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel11 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2HtmlLabel10 As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents lblPreviewCardNumber As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents lblPreviewExpiry As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents lblPreviewCardType As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents Guna2HtmlLabel13 As Guna.UI2.WinForms.Guna2HtmlLabel
 
 End Class

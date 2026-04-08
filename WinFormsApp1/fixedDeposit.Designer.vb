@@ -22,28 +22,28 @@ Partial Class fixedDeposit
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim CustomizableEdges17 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges18 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges1 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges2 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges3 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges4 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges5 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges6 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges7 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges8 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges9 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges10 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges11 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges12 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges13 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges14 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges15 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges16 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges21 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges22 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges19 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges20 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges39 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges40 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges23 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges24 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges25 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges26 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges27 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges28 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges29 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges30 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges31 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges32 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges33 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges34 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges35 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges36 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges37 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges38 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges43 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges44 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges41 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges42 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Guna2Panel1 = New Guna.UI2.WinForms.Guna2Panel()
         Guna2HtmlLabel10 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         dtpStartDate = New Guna.UI2.WinForms.Guna2DateTimePicker()
@@ -54,10 +54,10 @@ Partial Class fixedDeposit
         Guna2HtmlLabel6 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         cmbCustomer = New Guna.UI2.WinForms.Guna2ComboBox()
         btnClear = New Guna.UI2.WinForms.Guna2Button()
-        btnProcess = New Guna.UI2.WinForms.Guna2Button()
-        cmbLoanType = New Guna.UI2.WinForms.Guna2ComboBox()
+        btnExecuteDeposit = New Guna.UI2.WinForms.Guna2Button()
+        cmbInterestRate = New Guna.UI2.WinForms.Guna2ComboBox()
         Guna2HtmlLabel5 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        dtpEndDate = New Guna.UI2.WinForms.Guna2DateTimePicker()
+        dtpMaturityDate = New Guna.UI2.WinForms.Guna2DateTimePicker()
         Guna2HtmlLabel4 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel3 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel2 = New Guna.UI2.WinForms.Guna2HtmlLabel()
@@ -65,14 +65,14 @@ Partial Class fixedDeposit
         Guna2HtmlLabel17 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel18 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2Panel2 = New Guna.UI2.WinForms.Guna2Panel()
-        Guna2HtmlLabel7 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2HtmlLabel9 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2ProgressBar1 = New Guna.UI2.WinForms.Guna2ProgressBar()
-        Guna2HtmlLabel11 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2HtmlLabel12 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2HtmlLabel13 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Guna2HtmlLabel14 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel15 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Guna2HtmlLabel14 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        lblLiquidityImpactDesc = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        lblInterestAccumulationDesc = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        lblProjectedYieldValue = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        ProgressYield = New Guna.UI2.WinForms.Guna2ProgressBar()
+        Guna2HtmlLabel9 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Guna2HtmlLabel7 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2Panel1.SuspendLayout()
         Guna2Panel2.SuspendLayout()
         SuspendLayout()
@@ -90,18 +90,18 @@ Partial Class fixedDeposit
         Guna2Panel1.Controls.Add(Guna2HtmlLabel6)
         Guna2Panel1.Controls.Add(cmbCustomer)
         Guna2Panel1.Controls.Add(btnClear)
-        Guna2Panel1.Controls.Add(btnProcess)
-        Guna2Panel1.Controls.Add(cmbLoanType)
+        Guna2Panel1.Controls.Add(btnExecuteDeposit)
+        Guna2Panel1.Controls.Add(cmbInterestRate)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel5)
-        Guna2Panel1.Controls.Add(dtpEndDate)
+        Guna2Panel1.Controls.Add(dtpMaturityDate)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel4)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel3)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel2)
         Guna2Panel1.Controls.Add(Guna2HtmlLabel1)
-        Guna2Panel1.CustomizableEdges = CustomizableEdges17
+        Guna2Panel1.CustomizableEdges = CustomizableEdges39
         Guna2Panel1.Location = New Point(46, 228)
         Guna2Panel1.Name = "Guna2Panel1"
-        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges18
+        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges40
         Guna2Panel1.Size = New Size(907, 557)
         Guna2Panel1.TabIndex = 27
         ' 
@@ -121,7 +121,7 @@ Partial Class fixedDeposit
         dtpStartDate.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
         dtpStartDate.BorderRadius = 7
         dtpStartDate.Checked = True
-        dtpStartDate.CustomizableEdges = CustomizableEdges1
+        dtpStartDate.CustomizableEdges = CustomizableEdges23
         dtpStartDate.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
         dtpStartDate.Font = New Font("Segoe UI", 9F)
         dtpStartDate.Format = DateTimePickerFormat.Long
@@ -129,7 +129,7 @@ Partial Class fixedDeposit
         dtpStartDate.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         dtpStartDate.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         dtpStartDate.Name = "dtpStartDate"
-        dtpStartDate.ShadowDecoration.CustomizableEdges = CustomizableEdges2
+        dtpStartDate.ShadowDecoration.CustomizableEdges = CustomizableEdges24
         dtpStartDate.Size = New Size(409, 57)
         dtpStartDate.TabIndex = 55
         dtpStartDate.Value = New Date(2026, 3, 31, 10, 10, 25, 280)
@@ -150,7 +150,7 @@ Partial Class fixedDeposit
         ' 
         cmbStatus.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
         cmbStatus.BorderRadius = 7
-        cmbStatus.CustomizableEdges = CustomizableEdges3
+        cmbStatus.CustomizableEdges = CustomizableEdges25
         cmbStatus.DrawMode = DrawMode.OwnerDrawFixed
         cmbStatus.DropDownStyle = ComboBoxStyle.DropDownList
         cmbStatus.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
@@ -162,7 +162,7 @@ Partial Class fixedDeposit
         cmbStatus.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
         cmbStatus.Location = New Point(477, 207)
         cmbStatus.Name = "cmbStatus"
-        cmbStatus.ShadowDecoration.CustomizableEdges = CustomizableEdges4
+        cmbStatus.ShadowDecoration.CustomizableEdges = CustomizableEdges26
         cmbStatus.Size = New Size(409, 36)
         cmbStatus.TabIndex = 53
         ' 
@@ -181,7 +181,7 @@ Partial Class fixedDeposit
         ' 
         txtAmount.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
         txtAmount.BorderRadius = 8
-        txtAmount.CustomizableEdges = CustomizableEdges5
+        txtAmount.CustomizableEdges = CustomizableEdges27
         txtAmount.DefaultText = ""
         txtAmount.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         txtAmount.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -196,7 +196,7 @@ Partial Class fixedDeposit
         txtAmount.Name = "txtAmount"
         txtAmount.PlaceholderText = "0.00"
         txtAmount.SelectedText = ""
-        txtAmount.ShadowDecoration.CustomizableEdges = CustomizableEdges6
+        txtAmount.ShadowDecoration.CustomizableEdges = CustomizableEdges28
         txtAmount.Size = New Size(409, 57)
         txtAmount.TabIndex = 49
         ' 
@@ -215,7 +215,7 @@ Partial Class fixedDeposit
         ' 
         cmbCustomer.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
         cmbCustomer.BorderRadius = 7
-        cmbCustomer.CustomizableEdges = CustomizableEdges7
+        cmbCustomer.CustomizableEdges = CustomizableEdges29
         cmbCustomer.DrawMode = DrawMode.OwnerDrawFixed
         cmbCustomer.DropDownStyle = ComboBoxStyle.DropDownList
         cmbCustomer.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
@@ -227,14 +227,14 @@ Partial Class fixedDeposit
         cmbCustomer.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
         cmbCustomer.Location = New Point(18, 110)
         cmbCustomer.Name = "cmbCustomer"
-        cmbCustomer.ShadowDecoration.CustomizableEdges = CustomizableEdges8
+        cmbCustomer.ShadowDecoration.CustomizableEdges = CustomizableEdges30
         cmbCustomer.Size = New Size(409, 36)
         cmbCustomer.TabIndex = 47
         ' 
         ' btnClear
         ' 
         btnClear.BorderRadius = 7
-        btnClear.CustomizableEdges = CustomizableEdges9
+        btnClear.CustomizableEdges = CustomizableEdges31
         btnClear.DisabledState.BorderColor = Color.DarkGray
         btnClear.DisabledState.CustomBorderColor = Color.DarkGray
         btnClear.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
@@ -244,48 +244,48 @@ Partial Class fixedDeposit
         btnClear.ForeColor = Color.White
         btnClear.Location = New Point(18, 449)
         btnClear.Name = "btnClear"
-        btnClear.ShadowDecoration.CustomizableEdges = CustomizableEdges10
+        btnClear.ShadowDecoration.CustomizableEdges = CustomizableEdges32
         btnClear.Size = New Size(409, 57)
         btnClear.TabIndex = 46
         btnClear.Text = "CLEAR"
         ' 
-        ' btnProcess
+        ' btnExecuteDeposit
         ' 
-        btnProcess.BorderRadius = 7
-        btnProcess.CustomizableEdges = CustomizableEdges11
-        btnProcess.DisabledState.BorderColor = Color.DarkGray
-        btnProcess.DisabledState.CustomBorderColor = Color.DarkGray
-        btnProcess.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
-        btnProcess.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
-        btnProcess.FillColor = Color.DarkBlue
-        btnProcess.Font = New Font("Segoe UI", 9F)
-        btnProcess.ForeColor = Color.White
-        btnProcess.Location = New Point(18, 372)
-        btnProcess.Name = "btnProcess"
-        btnProcess.ShadowDecoration.CustomizableEdges = CustomizableEdges12
-        btnProcess.Size = New Size(409, 57)
-        btnProcess.TabIndex = 44
-        btnProcess.Text = "EXECUTE DEPOSIT"
+        btnExecuteDeposit.BorderRadius = 7
+        btnExecuteDeposit.CustomizableEdges = CustomizableEdges33
+        btnExecuteDeposit.DisabledState.BorderColor = Color.DarkGray
+        btnExecuteDeposit.DisabledState.CustomBorderColor = Color.DarkGray
+        btnExecuteDeposit.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        btnExecuteDeposit.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        btnExecuteDeposit.FillColor = Color.DarkBlue
+        btnExecuteDeposit.Font = New Font("Segoe UI", 9F)
+        btnExecuteDeposit.ForeColor = Color.White
+        btnExecuteDeposit.Location = New Point(18, 372)
+        btnExecuteDeposit.Name = "btnExecuteDeposit"
+        btnExecuteDeposit.ShadowDecoration.CustomizableEdges = CustomizableEdges34
+        btnExecuteDeposit.Size = New Size(409, 57)
+        btnExecuteDeposit.TabIndex = 44
+        btnExecuteDeposit.Text = "EXECUTE DEPOSIT"
         ' 
-        ' cmbLoanType
+        ' cmbInterestRate
         ' 
-        cmbLoanType.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        cmbLoanType.BorderRadius = 7
-        cmbLoanType.CustomizableEdges = CustomizableEdges13
-        cmbLoanType.DrawMode = DrawMode.OwnerDrawFixed
-        cmbLoanType.DropDownStyle = ComboBoxStyle.DropDownList
-        cmbLoanType.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        cmbLoanType.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        cmbLoanType.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        cmbLoanType.Font = New Font("Segoe UI", 10F)
-        cmbLoanType.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
-        cmbLoanType.ItemHeight = 30
-        cmbLoanType.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
-        cmbLoanType.Location = New Point(18, 207)
-        cmbLoanType.Name = "cmbLoanType"
-        cmbLoanType.ShadowDecoration.CustomizableEdges = CustomizableEdges14
-        cmbLoanType.Size = New Size(409, 36)
-        cmbLoanType.TabIndex = 33
+        cmbInterestRate.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbInterestRate.BorderRadius = 7
+        cmbInterestRate.CustomizableEdges = CustomizableEdges35
+        cmbInterestRate.DrawMode = DrawMode.OwnerDrawFixed
+        cmbInterestRate.DropDownStyle = ComboBoxStyle.DropDownList
+        cmbInterestRate.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        cmbInterestRate.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbInterestRate.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        cmbInterestRate.Font = New Font("Segoe UI", 10F)
+        cmbInterestRate.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
+        cmbInterestRate.ItemHeight = 30
+        cmbInterestRate.Items.AddRange(New Object() {"Select gender", "MALE", "FEMALE"})
+        cmbInterestRate.Location = New Point(18, 207)
+        cmbInterestRate.Name = "cmbInterestRate"
+        cmbInterestRate.ShadowDecoration.CustomizableEdges = CustomizableEdges36
+        cmbInterestRate.Size = New Size(409, 36)
+        cmbInterestRate.TabIndex = 33
         ' 
         ' Guna2HtmlLabel5
         ' 
@@ -298,23 +298,23 @@ Partial Class fixedDeposit
         Guna2HtmlLabel5.TabIndex = 32
         Guna2HtmlLabel5.Text = "INTEREST RATE"
         ' 
-        ' dtpEndDate
+        ' dtpMaturityDate
         ' 
-        dtpEndDate.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        dtpEndDate.BorderRadius = 7
-        dtpEndDate.Checked = True
-        dtpEndDate.CustomizableEdges = CustomizableEdges15
-        dtpEndDate.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
-        dtpEndDate.Font = New Font("Segoe UI", 9F)
-        dtpEndDate.Format = DateTimePickerFormat.Long
-        dtpEndDate.Location = New Point(477, 382)
-        dtpEndDate.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
-        dtpEndDate.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
-        dtpEndDate.Name = "dtpEndDate"
-        dtpEndDate.ShadowDecoration.CustomizableEdges = CustomizableEdges16
-        dtpEndDate.Size = New Size(409, 57)
-        dtpEndDate.TabIndex = 31
-        dtpEndDate.Value = New Date(2026, 3, 31, 10, 10, 25, 280)
+        dtpMaturityDate.BackColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        dtpMaturityDate.BorderRadius = 7
+        dtpMaturityDate.Checked = True
+        dtpMaturityDate.CustomizableEdges = CustomizableEdges37
+        dtpMaturityDate.FillColor = Color.FromArgb(CByte(249), CByte(250), CByte(251))
+        dtpMaturityDate.Font = New Font("Segoe UI", 9F)
+        dtpMaturityDate.Format = DateTimePickerFormat.Long
+        dtpMaturityDate.Location = New Point(477, 382)
+        dtpMaturityDate.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
+        dtpMaturityDate.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
+        dtpMaturityDate.Name = "dtpMaturityDate"
+        dtpMaturityDate.ShadowDecoration.CustomizableEdges = CustomizableEdges38
+        dtpMaturityDate.Size = New Size(409, 57)
+        dtpMaturityDate.TabIndex = 31
+        dtpMaturityDate.Value = New Date(2026, 3, 31, 10, 10, 25, 280)
         ' 
         ' Guna2HtmlLabel4
         ' 
@@ -388,84 +388,29 @@ Partial Class fixedDeposit
         Guna2Panel2.BorderRadius = 10
         Guna2Panel2.Controls.Add(Guna2HtmlLabel15)
         Guna2Panel2.Controls.Add(Guna2HtmlLabel14)
-        Guna2Panel2.Controls.Add(Guna2HtmlLabel13)
-        Guna2Panel2.Controls.Add(Guna2HtmlLabel12)
-        Guna2Panel2.Controls.Add(Guna2HtmlLabel11)
-        Guna2Panel2.Controls.Add(Guna2ProgressBar1)
+        Guna2Panel2.Controls.Add(lblLiquidityImpactDesc)
+        Guna2Panel2.Controls.Add(lblInterestAccumulationDesc)
+        Guna2Panel2.Controls.Add(lblProjectedYieldValue)
+        Guna2Panel2.Controls.Add(ProgressYield)
         Guna2Panel2.Controls.Add(Guna2HtmlLabel9)
         Guna2Panel2.Controls.Add(Guna2HtmlLabel7)
-        Guna2Panel2.CustomizableEdges = CustomizableEdges21
+        Guna2Panel2.CustomizableEdges = CustomizableEdges43
         Guna2Panel2.Location = New Point(1030, 228)
         Guna2Panel2.Name = "Guna2Panel2"
-        Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges22
+        Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges44
         Guna2Panel2.Size = New Size(491, 255)
         Guna2Panel2.TabIndex = 59
         ' 
-        ' Guna2HtmlLabel7
+        ' Guna2HtmlLabel15
         ' 
-        Guna2HtmlLabel7.BackColor = Color.Transparent
-        Guna2HtmlLabel7.Font = New Font("Microsoft Sans Serif", 13F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel7.ForeColor = Color.Black
-        Guna2HtmlLabel7.Location = New Point(14, 17)
-        Guna2HtmlLabel7.Name = "Guna2HtmlLabel7"
-        Guna2HtmlLabel7.Size = New Size(187, 28)
-        Guna2HtmlLabel7.TabIndex = 57
-        Guna2HtmlLabel7.Text = "Maturity Forecast"
-        ' 
-        ' Guna2HtmlLabel9
-        ' 
-        Guna2HtmlLabel9.BackColor = Color.Transparent
-        Guna2HtmlLabel9.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel9.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
-        Guna2HtmlLabel9.Location = New Point(14, 55)
-        Guna2HtmlLabel9.Name = "Guna2HtmlLabel9"
-        Guna2HtmlLabel9.Size = New Size(101, 20)
-        Guna2HtmlLabel9.TabIndex = 57
-        Guna2HtmlLabel9.Text = "Projected Yield"
-        ' 
-        ' Guna2ProgressBar1
-        ' 
-        Guna2ProgressBar1.CustomizableEdges = CustomizableEdges19
-        Guna2ProgressBar1.Location = New Point(14, 85)
-        Guna2ProgressBar1.Name = "Guna2ProgressBar1"
-        Guna2ProgressBar1.ShadowDecoration.CustomizableEdges = CustomizableEdges20
-        Guna2ProgressBar1.Size = New Size(455, 10)
-        Guna2ProgressBar1.TabIndex = 58
-        Guna2ProgressBar1.Text = "Guna2ProgressBar1"
-        Guna2ProgressBar1.TextRenderingHint = Drawing.Text.TextRenderingHint.SystemDefault
-        ' 
-        ' Guna2HtmlLabel11
-        ' 
-        Guna2HtmlLabel11.BackColor = Color.Transparent
-        Guna2HtmlLabel11.Font = New Font("Microsoft Sans Serif", 13F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel11.ForeColor = Color.Black
-        Guna2HtmlLabel11.Location = New Point(299, 51)
-        Guna2HtmlLabel11.Name = "Guna2HtmlLabel11"
-        Guna2HtmlLabel11.Size = New Size(133, 28)
-        Guna2HtmlLabel11.TabIndex = 57
-        Guna2HtmlLabel11.Text = "GHS 30,000"
-        ' 
-        ' Guna2HtmlLabel12
-        ' 
-        Guna2HtmlLabel12.BackColor = Color.Transparent
-        Guna2HtmlLabel12.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel12.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
-        Guna2HtmlLabel12.Location = New Point(14, 138)
-        Guna2HtmlLabel12.Name = "Guna2HtmlLabel12"
-        Guna2HtmlLabel12.Size = New Size(399, 20)
-        Guna2HtmlLabel12.TabIndex = 59
-        Guna2HtmlLabel12.Text = "Forcasted earnings based on a 360 day institutional calender"
-        ' 
-        ' Guna2HtmlLabel13
-        ' 
-        Guna2HtmlLabel13.BackColor = Color.Transparent
-        Guna2HtmlLabel13.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel13.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
-        Guna2HtmlLabel13.Location = New Point(14, 204)
-        Guna2HtmlLabel13.Name = "Guna2HtmlLabel13"
-        Guna2HtmlLabel13.Size = New Size(269, 20)
-        Guna2HtmlLabel13.TabIndex = 60
-        Guna2HtmlLabel13.Text = "Capital will be locked at HQ until maturity"
+        Guna2HtmlLabel15.BackColor = Color.Transparent
+        Guna2HtmlLabel15.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Guna2HtmlLabel15.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
+        Guna2HtmlLabel15.Location = New Point(14, 178)
+        Guna2HtmlLabel15.Name = "Guna2HtmlLabel15"
+        Guna2HtmlLabel15.Size = New Size(153, 20)
+        Guna2HtmlLabel15.TabIndex = 62
+        Guna2HtmlLabel15.Text = "Liquidity Tier Impact"
         ' 
         ' Guna2HtmlLabel14
         ' 
@@ -478,16 +423,71 @@ Partial Class fixedDeposit
         Guna2HtmlLabel14.TabIndex = 61
         Guna2HtmlLabel14.Text = "Interest Accumulation"
         ' 
-        ' Guna2HtmlLabel15
+        ' lblLiquidityImpactDesc
         ' 
-        Guna2HtmlLabel15.BackColor = Color.Transparent
-        Guna2HtmlLabel15.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Guna2HtmlLabel15.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
-        Guna2HtmlLabel15.Location = New Point(14, 178)
-        Guna2HtmlLabel15.Name = "Guna2HtmlLabel15"
-        Guna2HtmlLabel15.Size = New Size(153, 20)
-        Guna2HtmlLabel15.TabIndex = 62
-        Guna2HtmlLabel15.Text = "Liquidity Tier Impact"
+        lblLiquidityImpactDesc.BackColor = Color.Transparent
+        lblLiquidityImpactDesc.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        lblLiquidityImpactDesc.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
+        lblLiquidityImpactDesc.Location = New Point(14, 204)
+        lblLiquidityImpactDesc.Name = "lblLiquidityImpactDesc"
+        lblLiquidityImpactDesc.Size = New Size(269, 20)
+        lblLiquidityImpactDesc.TabIndex = 60
+        lblLiquidityImpactDesc.Text = "Capital will be locked at HQ until maturity"
+        ' 
+        ' lblInterestAccumulationDesc
+        ' 
+        lblInterestAccumulationDesc.BackColor = Color.Transparent
+        lblInterestAccumulationDesc.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        lblInterestAccumulationDesc.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
+        lblInterestAccumulationDesc.Location = New Point(14, 138)
+        lblInterestAccumulationDesc.Name = "lblInterestAccumulationDesc"
+        lblInterestAccumulationDesc.Size = New Size(399, 20)
+        lblInterestAccumulationDesc.TabIndex = 59
+        lblInterestAccumulationDesc.Text = "Forcasted earnings based on a 360 day institutional calender"
+        ' 
+        ' lblProjectedYieldValue
+        ' 
+        lblProjectedYieldValue.BackColor = Color.Transparent
+        lblProjectedYieldValue.Font = New Font("Microsoft Sans Serif", 13F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        lblProjectedYieldValue.ForeColor = Color.Black
+        lblProjectedYieldValue.Location = New Point(299, 51)
+        lblProjectedYieldValue.Name = "lblProjectedYieldValue"
+        lblProjectedYieldValue.Size = New Size(133, 28)
+        lblProjectedYieldValue.TabIndex = 57
+        lblProjectedYieldValue.Text = "GHS 30,000"
+        ' 
+        ' ProgressYield
+        ' 
+        ProgressYield.CustomizableEdges = CustomizableEdges41
+        ProgressYield.Location = New Point(14, 85)
+        ProgressYield.Name = "ProgressYield"
+        ProgressYield.ShadowDecoration.CustomizableEdges = CustomizableEdges42
+        ProgressYield.Size = New Size(455, 10)
+        ProgressYield.TabIndex = 58
+        ProgressYield.Text = "Guna2ProgressBar1"
+        ProgressYield.TextRenderingHint = Drawing.Text.TextRenderingHint.SystemDefault
+        ' 
+        ' Guna2HtmlLabel9
+        ' 
+        Guna2HtmlLabel9.BackColor = Color.Transparent
+        Guna2HtmlLabel9.Font = New Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Guna2HtmlLabel9.ForeColor = Color.FromArgb(CByte(115), CByte(130), CByte(146))
+        Guna2HtmlLabel9.Location = New Point(14, 55)
+        Guna2HtmlLabel9.Name = "Guna2HtmlLabel9"
+        Guna2HtmlLabel9.Size = New Size(101, 20)
+        Guna2HtmlLabel9.TabIndex = 57
+        Guna2HtmlLabel9.Text = "Projected Yield"
+        ' 
+        ' Guna2HtmlLabel7
+        ' 
+        Guna2HtmlLabel7.BackColor = Color.Transparent
+        Guna2HtmlLabel7.Font = New Font("Microsoft Sans Serif", 13F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Guna2HtmlLabel7.ForeColor = Color.Black
+        Guna2HtmlLabel7.Location = New Point(14, 17)
+        Guna2HtmlLabel7.Name = "Guna2HtmlLabel7"
+        Guna2HtmlLabel7.Size = New Size(187, 28)
+        Guna2HtmlLabel7.TabIndex = 57
+        Guna2HtmlLabel7.Text = "Maturity Forecast"
         ' 
         ' fixedDeposit
         ' 
@@ -517,10 +517,10 @@ Partial Class fixedDeposit
     Friend WithEvents Guna2HtmlLabel6 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents cmbCustomer As Guna.UI2.WinForms.Guna2ComboBox
     Friend WithEvents btnClear As Guna.UI2.WinForms.Guna2Button
-    Friend WithEvents btnProcess As Guna.UI2.WinForms.Guna2Button
-    Friend WithEvents cmbLoanType As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents btnExecuteDeposit As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents cmbInterestRate As Guna.UI2.WinForms.Guna2ComboBox
     Friend WithEvents Guna2HtmlLabel5 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents dtpEndDate As Guna.UI2.WinForms.Guna2DateTimePicker
+    Friend WithEvents dtpMaturityDate As Guna.UI2.WinForms.Guna2DateTimePicker
     Friend WithEvents Guna2HtmlLabel4 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel3 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel2 As Guna.UI2.WinForms.Guna2HtmlLabel
@@ -529,10 +529,10 @@ Partial Class fixedDeposit
     Friend WithEvents Guna2HtmlLabel18 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2Panel2 As Guna.UI2.WinForms.Guna2Panel
     Friend WithEvents Guna2HtmlLabel14 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2HtmlLabel13 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2HtmlLabel12 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2HtmlLabel11 As Guna.UI2.WinForms.Guna2HtmlLabel
-    Friend WithEvents Guna2ProgressBar1 As Guna.UI2.WinForms.Guna2ProgressBar
+    Friend WithEvents lblLiquidityImpactDesc As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents lblInterestAccumulationDesc As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents lblProjectedYieldValue As Guna.UI2.WinForms.Guna2HtmlLabel
+    Friend WithEvents ProgressYield As Guna.UI2.WinForms.Guna2ProgressBar
     Friend WithEvents Guna2HtmlLabel9 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel7 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel15 As Guna.UI2.WinForms.Guna2HtmlLabel

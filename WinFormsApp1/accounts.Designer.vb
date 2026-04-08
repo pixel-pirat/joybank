@@ -29,11 +29,17 @@ Partial Class accounts
         Dim DataGridViewCellStyle3 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges3 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges4 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges5 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges6 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges7 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges8 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Guna2Panel3 = New Guna.UI2.WinForms.Guna2Panel()
         Guna2DataGridView1 = New Guna.UI2.WinForms.Guna2DataGridView()
         Guna2HtmlLabel18 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2HtmlLabel17 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Guna2Button1 = New Guna.UI2.WinForms.Guna2Button()
+        Guna2Button2 = New Guna.UI2.WinForms.Guna2Button()
+        Guna2Button3 = New Guna.UI2.WinForms.Guna2Button()
         Guna2Panel3.SuspendLayout()
         CType(Guna2DataGridView1, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
@@ -144,10 +150,44 @@ Partial Class accounts
         Guna2Button1.TabIndex = 19
         Guna2Button1.Text = "Create Account"
         ' 
+        ' Guna2Button2
+        ' 
+        Guna2Button2.CustomizableEdges = CustomizableEdges5
+        Guna2Button2.DisabledState.BorderColor = Color.DarkGray
+        Guna2Button2.DisabledState.CustomBorderColor = Color.DarkGray
+        Guna2Button2.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button2.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        Guna2Button2.Font = New Font("Segoe UI", 9F)
+        Guna2Button2.ForeColor = Color.White
+        Guna2Button2.Location = New Point(1074, 87)
+        Guna2Button2.Name = "Guna2Button2"
+        Guna2Button2.ShadowDecoration.CustomizableEdges = CustomizableEdges6
+        Guna2Button2.Size = New Size(225, 56)
+        Guna2Button2.TabIndex = 20
+        Guna2Button2.Text = "Create Card"
+        ' 
+        ' Guna2Button3
+        ' 
+        Guna2Button3.CustomizableEdges = CustomizableEdges7
+        Guna2Button3.DisabledState.BorderColor = Color.DarkGray
+        Guna2Button3.DisabledState.CustomBorderColor = Color.DarkGray
+        Guna2Button3.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button3.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        Guna2Button3.Font = New Font("Segoe UI", 9F)
+        Guna2Button3.ForeColor = Color.White
+        Guna2Button3.Location = New Point(816, 87)
+        Guna2Button3.Name = "Guna2Button3"
+        Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges8
+        Guna2Button3.Size = New Size(225, 56)
+        Guna2Button3.TabIndex = 21
+        Guna2Button3.Text = "Fixed Deposit"
+        ' 
         ' accounts
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
+        Controls.Add(Guna2Button3)
+        Controls.Add(Guna2Button2)
         Controls.Add(Guna2Button1)
         Controls.Add(Guna2Panel3)
         Controls.Add(Guna2HtmlLabel18)
@@ -165,5 +205,7 @@ Partial Class accounts
     Friend WithEvents Guna2HtmlLabel18 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel17 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2Button1 As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents Guna2Button2 As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents Guna2Button3 As Guna.UI2.WinForms.Guna2Button
 
 End Class
